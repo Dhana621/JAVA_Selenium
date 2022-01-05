@@ -1,0 +1,12 @@
+This is to study about java selenium 
+
+public class students{
+
+public static void main(String[] args){
+
+
+System.out.println("hai this is first project");
+}
+
+
+}
