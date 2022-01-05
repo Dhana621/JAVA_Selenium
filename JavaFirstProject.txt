@@ -1,10 +1,14 @@
 This is to study about java selenium 
 
-public class students{
+public class Students{
+
+public void books(){
+System.out.println("study books");
+}
 
 public static void main(String[] args){
-
-
+Students hai = new Students();
+hai.books();
 System.out.println("hai this is first commit");
 
 System.out.println("This is my second commit")
