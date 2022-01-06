@@ -1,5 +1,3 @@
-This is to study about java selenium 
-
 public class Students{
 
 public void books(){
